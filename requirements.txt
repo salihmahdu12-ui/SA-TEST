@@ -1,0 +1,4 @@
+aiogram
+httpx
+pillow
+python-dotenv
